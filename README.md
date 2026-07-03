@@ -1,5 +1,5 @@
 <h1 align="center">Divyam Singhania</h1>
-<p align="center"><b>Full-Stack + AI Developer</b> · Founder's Office @ TechnoBytes Innovation</p>
+<p align="center"><b>Full-Stack + AI Developer</b> · Founder's Office @ VidyaSaar Foundation · Software Engineer @ TechnoBytes Innovation</p>
 
 <p align="center">
   <a href="mailto:divyamsinghania65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
