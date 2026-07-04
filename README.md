@@ -13,7 +13,7 @@
 
 - **B.E. Computer Science Engineering** @ Chitkara University — CGPA **9.52/10** (2024–2028)
 - **Software Developer** @ TechnoBytes Innovation (Feb 2026–Present)
-- **Founder's Office** @ VidyaSaar Foundation (Aug 2025–Present)
+- **Founder's Office** @ VidyaSaar Foundation
 
 ---
 
