@@ -21,10 +21,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  
 </p>
 
 <p align="center">
@@ -41,6 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud_Firestore-9333EA?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Firestore"/>
   <img src="https://img.shields.io/badge/MongoDB-9333EA?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-9333EA?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Supabase-9333EA?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
