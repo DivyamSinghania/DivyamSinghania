@@ -61,7 +61,7 @@
 
 | Project | Stack | Impact | Repo |
 |:--|:--|:--|:--|
-| **[SAI USA Inc.](https://www.saiusainc.com)** | Next.js · Firestore · Firebase · Redis · Stripe | **$15K+** ticket sales in 3 weeks · atomic Redis seat-locking · **100K+** user peak availability | `Private/Client` |
+| **[SAI USA Inc.](https://www.saiusainc.com)** | Next.js · Firestore · Firebase · Redis · Stripe | **$20K+** ticket sales in 3 weeks · atomic Redis seat-locking · **100K+** user peak availability | `Private/Client` |
 | **[Divine Drishty](https://play.google.com/store/apps/details?id=com.divinedrishty&hl=en_US)** | React Native · TypeScript · Expo · Firebase | **2,000+** users within 1 month · Firebase Auth (Google + Apple Sign-In) | `Private/Client` |
 | **[VidyaSaar Foundation](https://www.vidyasaar.org)** (NGO) | Next.js · Firebase · Firestore | Ed-Tech platform · led a **5+** person team | `Private/Client` |
 | **AI Stock Analyser** | Next.js · FastAPI · Gemini AI | Financial statement parsing + AI-generated investment summaries | `Coming Soon` |
